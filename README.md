@@ -1,4 +1,4 @@
-<img align="left" width="20%" src="https://raw.githubusercontent.com/cjstahoviak/cjstahoviak/main/assets/snoopy_dance_cropped.gif">
+<img align="left" width="30%" src="https://raw.githubusercontent.com/cjstahoviak/cjstahoviak/main/assets/snoopy_dance_cropped.gif">
 
 ### Hello, I'm Calvin!
 
