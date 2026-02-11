@@ -1,16 +1,14 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/cjstahoviak/cjstahoviak/main/assets/snoopy_dance_cropped.gif" alt="snoopy" width="250">
-
+ 
 ### Hello, I'm Calvin!
 
-👾 Research scientist
+🍊 Research scientist
 
 🎓 Master's in computer science from [UNM](https://www.cs.unm.edu/)
 
 🤖 Loves robots, computer vision, and machine learning
-
-🍊 Favorite fruit
 
 [![Profile Views](https://komarev.com/ghpvc/?username=cjstahoviak&style=flat&color=0066ff&label=Profile%20Views&labelColor=grey)](https://github.com/cjstahoviak)
 [![Website](https://img.shields.io/badge/Website-up-27AF60?style=flat&labelColor=grey)](https://cjstahoviak.github.io/)
