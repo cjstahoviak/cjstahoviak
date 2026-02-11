@@ -1,6 +1,6 @@
 <img align="left" width="30%" src="https://raw.githubusercontent.com/cjstahoviak/cjstahoviak/main/assets/snoopy_dance.gif">
 
-### Hello! [![profile views](https://komarev.com/ghpvc/?username=cjstahoviak&style=flat&color=0066ff&label=profile%20views)](https://github.com/cjstahoviak)
+### Hello!
 
 👾 I'm **Calvin**
 
