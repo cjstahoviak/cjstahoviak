@@ -1,6 +1,6 @@
-<table border="0">
-<tr>
-<td width="70%">
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/cjstahoviak/cjstahoviak/main/assets/snoopy-esnupi.gif" alt="snoopy" width="120"> <img src="https://raw.githubusercontent.com/cjstahoviak/cjstahoviak/main/assets/snoopy_dance_cropped.gif" alt="snoopy" width="250"> <img src="https://raw.githubusercontent.com/cjstahoviak/cjstahoviak/main/assets/snoopy-esnupi.gif" alt="snoopy" width="120">
 
 ### Hello, I'm Calvin!
 
@@ -17,11 +17,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-calvin--stahoviak-0A66C2?style=flat&labelColor=grey)](https://www.linkedin.com/in/calvin-stahoviak/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Calvin%20Stahoviak-27AF60?style=flat&labelColor=grey)](https://scholar.google.com/citations?user=0ELvLnwAAAAJ&hl=en&oi=sra)
 
-</td>
-<td width="30%">
-
-<img src="https://raw.githubusercontent.com/cjstahoviak/cjstahoviak/main/assets/snoopy_dance_cropped.gif" alt="snoopy">
-
-</td>
-</tr>
-</table>
+</div>
