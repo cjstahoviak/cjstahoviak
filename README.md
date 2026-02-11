@@ -1,4 +1,4 @@
-<img align="left" src="https://raw.githubusercontent.com/cjstahoviak/cjstahoviak/refs/heads/master/assets/snoopy-esnupi.gif">
+<img align="left" src="https://raw.githubusercontent.com/cjstahoviak/cjstahoviak/main/assets/snoopy-esnupi.gif">
 
 ### Hello!
 
