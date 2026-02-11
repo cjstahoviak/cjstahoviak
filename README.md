@@ -2,12 +2,15 @@
 
 ### Hello, I'm Calvin!
 
-👾 A research scientist
+👾 Research scientist
 
-🎓 Has a master's in computer science from the [university of new mexico](https://www.cs.unm.edu/)
+🎓 Master's in computer science from [UNM](https://www.cs.unm.edu/)
 
-🤖 Loves robots and has a passion for computer vision and ai
+🤖 Loves robots, computer vision, and ai
+
+🍊 Favorite fruit
 
 [![Profile Views](https://komarev.com/ghpvc/?username=cjstahoviak&style=flat&color=0066ff&label=Profile%20Views&labelColor=grey)](https://github.com/cjstahoviak)
+[![Website](https://img.shields.io/badge/Website-up-27AF60?style=flat&labelColor=grey)](https://cjstahoviak.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-calvin--stahoviak-0A66C2?style=flat&labelColor=grey)](https://www.linkedin.com/in/calvin-stahoviak/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Calvin%20Stahoviak-27AF60?style=flat&labelColor=grey)](https://scholar.google.com/citations?user=0ELvLnwAAAAJ&hl=en&oi=sra)
