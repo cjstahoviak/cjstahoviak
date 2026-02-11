@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/cjstahoviak/cjstahoviak/main/assets/snoopy-esnupi.gif" alt="snoopy" width="120"> <img src="https://raw.githubusercontent.com/cjstahoviak/cjstahoviak/main/assets/snoopy_dance_cropped.gif" alt="snoopy" width="250"> <img src="https://raw.githubusercontent.com/cjstahoviak/cjstahoviak/main/assets/snoopy-esnupi.gif" alt="snoopy" width="120">
+<img src="https://raw.githubusercontent.com/cjstahoviak/cjstahoviak/main/assets/snoopy_dance_cropped.gif" alt="snoopy" width="250">
 
 ### Hello, I'm Calvin!
 
@@ -8,7 +8,7 @@
 
 🎓 Master's in computer science from [UNM](https://www.cs.unm.edu/)
 
-🤖 Loves robots, computer vision, and ai
+🤖 Loves robots, computer vision, and machine learning
 
 🍊 Favorite fruit
 
